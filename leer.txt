@@ -1,0 +1,5 @@
+https://flask.palletsprojects.com/en/stable/installation/#virtual-environments
+python3 -m venv env-api
+./env-api/bin/activate
+
+flask --app  app --debug run
